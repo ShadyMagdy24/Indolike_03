@@ -1,0 +1,7 @@
+Python Version: 3.10.16 | packaged by Anaconda, Inc. | (main, Dec 11 2024, 16:19:12) [MSC v.1929 64 bit (AMD64)]
+NumPy Version: 2.2.5
+Pandas Version: 2.2.3
+Scikit-Learn Version: 1.6.1
+Seaborn Version: 0.13.2
+Matplotlib Version: 3.10.1
+imbalanced-learn Version: 0.13.0
